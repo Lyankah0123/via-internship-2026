@@ -1,0 +1,31 @@
+===== Log Summary Report =====
+
+Total log lines:
+52
+
+Count per log level:
+     25 INFO
+     15 ERROR
+     12 WARN
+
+Top 3 most frequent IP addresses:
+     17 192.168.1.10
+      9 192.168.1.23
+      2 192.168.1.14
+
+All ERROR lines:
+2026-09-11 10:00:15 ERROR 192.168.1.23 Connection timeout
+2026-09-11 10:01:00 ERROR 192.168.1.23 Connection timeout
+2026-09-11 10:01:45 ERROR 192.168.1.15 Authentication failed
+2026-09-11 10:02:30 ERROR 192.168.1.23 Connection timeout
+2026-09-11 10:03:15 ERROR 192.168.1.18 Authentication failed
+2026-09-11 10:04:15 ERROR 192.168.1.23 Connection timeout
+2026-09-11 10:05:00 ERROR 192.168.1.22 Authentication failed
+2026-09-11 10:05:45 ERROR 192.168.1.23 Connection timeout
+2026-09-11 10:06:30 ERROR 192.168.1.25 Authentication failed
+2026-09-11 10:07:30 ERROR 192.168.1.23 Connection timeout
+2026-09-11 10:08:30 ERROR 192.168.1.23 Connection timeout
+2026-09-11 10:09:30 ERROR 192.168.1.30 Authentication failed
+2026-09-11 10:10:30 ERROR 192.168.1.23 Connection timeout
+2026-09-11 10:11:30 ERROR 192.168.1.33 Authentication failed
+2026-09-11 10:12:30 ERROR 192.168.1.23 Connection timeout
